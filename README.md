@@ -1,6 +1,9 @@
 # LandingPage
 Octanet Webdevelopment internship
 
-#Jaya Travels
+#Fashion:
 
-![image](https://user-images.githubusercontent.com/97893456/236388180-46c7d5bb-acd1-4ae7-86b3-2859140728c2.png)
+![fashon1](https://github.com/SankalpHaritash21/Landing_Page_Octanet/assets/110713125/e37434bd-0bbb-4033-bcc3-4957f1f865b0)
+
+
+
